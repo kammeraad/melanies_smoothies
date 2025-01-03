@@ -7,9 +7,9 @@ st.title("My Parents New Healthy Dinner")
 st.header("Breakfast Menu")
 st.write(
     """
-    Omega 3 & Blueberry Oatmeal
-    Kale, Spinach & Rocket Smoothie
-    Hard-Boiled Free-Range Egg
+    Omega 3 & Blueberry Oatmeal\n
+    Kale, Spinach & Rocket Smoothie\n
+    Hard-Boiled Free-Range Egg\n
     """
 )
 
