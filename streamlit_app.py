@@ -4,7 +4,7 @@ from snowflake.snowpark.functions import col
 
 # Write directly to the app
 st.title("My Parents New Healthy Dinner")
-st.subtitle("Breakfast Menu")
+st.header("Breakfast Menu")
 st.write(
     """
     Omega 3 & Blueberry Oatmeal
